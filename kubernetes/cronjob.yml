@@ -1,0 +1,5 @@
+appVersion: batch/v1
+kind: CronJob
+metadata:
+  name: polling-job
+spec: ""
